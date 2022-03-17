@@ -1,8 +1,8 @@
 baseURL = 'http://douganjard.com'
 languageCode = 'en-us'
 title = 'Doug Anjard'
-theme = "dream"
-themesDir = "./themes"
+theme = "dimension"
+# themesDir = "./themes"
 
 # copyright = ""
 
@@ -12,24 +12,24 @@ themesDir = "./themes"
 
 # enableRobotsTXT = true
 
-[params]
-  background = "#f7f7f7"
-  backgroundImage = "/me/background.jpg"
-  linkColor = "seagreen"
+# [params]
+  # background = "#f7f7f7"
+  # backgroundImage = "/me/background.jpg"
+  # linkColor = "seagreen"
 
   # dark mode
-  defaultDark = true
-  backgroundDark = "black"
-  backgroundImageDark = "/me/background-dark.jpg"
-  darkLinkColor = "darkseagreen"
-  darkNav = true
-  dark404 = true
+  # defaultDark = true
+  # backgroundDark = "black"
+  # backgroundImageDark = "/me/background-dark.jpg"
+  # darkLinkColor = "darkseagreen"
+  # darkNav = true
+  # dark404 = true
 
   author = "Doug Anjard"
   # description = ""
-  avatar = "/img/avatar.jpeg"
-  headerTitle = "Doug Anjard"
-  motto = "~"
+  # avatar = "/img/avatar.jpeg"
+  # headerTitle = "Doug Anjard"
+  # motto = "~"
   # maxTags = 5
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
@@ -55,7 +55,7 @@ themesDir = "./themes"
   # stackoverflow = ""
   # codepen = ""
 
-  siteStartYear = 2022
+  # siteStartYear = 2022
 
   # favicon = "/favicon.ico"
 

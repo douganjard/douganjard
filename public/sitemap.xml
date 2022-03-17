@@ -2,12 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://douganjard.com/</loc>
-    <lastmod>2022-03-04T23:30:24-06:00</lastmod>
-  </url><url>
     <loc>http://douganjard.com/categories/</loc>
   </url><url>
     <loc>http://douganjard.com/</loc>
+  </url><url>
+    <loc>http://douganjard.com/elements/</loc>
   </url><url>
     <loc>http://douganjard.com/tags/</loc>
   </url>
