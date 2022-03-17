@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "pretty": "prettier --write \"./**/*.{js,jsx,json,html,css,xml}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danjard/douganjard/issues"
   },
-  "homepage": "https://github.com/danjard/douganjard#readme"
+  "homepage": "https://github.com/danjard/douganjard#readme",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
 }
