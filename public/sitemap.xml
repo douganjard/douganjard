@@ -2,12 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://douganjard.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://douganjard.com/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>http://douganjard.com/elements/</loc>
+    <loc>/edits/</loc>
   </url><url>
-    <loc>http://douganjard.com/tags/</loc>
+    <loc>/food/</loc>
+  </url><url>
+    <loc>/kc/</loc>
+  </url><url>
+    <loc>/music/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/tech/</loc>
   </url>
 </urlset>

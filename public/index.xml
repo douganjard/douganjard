@@ -2,18 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Doug Anjard</title>
-    <link>http://douganjard.com/</link>
+    <link>/</link>
     <description>Recent content on Doug Anjard</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://douganjard.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>elements</title>
-      <link>http://douganjard.com/elements/</link>
+      <title>Edits</title>
+      <link>/edits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://douganjard.com/elements/</guid>
-      <description>Table of contents  Table of contents Text Code  Python C/C++ Bash   Tables  Text Some example text
-Code Python def foo():  print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){  prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD;  # Return exit 0; Tables    Pages Elements     1 Text   2 Code   3 Tables    </description>
+      <guid>/edits/</guid>
+      <description>Text Some example text</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/food/</guid>
+      <description>Text Some example text</description>
+    </item>
+    
+    <item>
+      <title>KC</title>
+      <link>/kc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kc/</guid>
+      <description>Text Some example text</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music/</guid>
+      <description>Text Some example text</description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tech/</guid>
+      <description>Text Some example text</description>
     </item>
     
   </channel>
