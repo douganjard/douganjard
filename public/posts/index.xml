@@ -4,66 +4,43 @@
     <title>Posts on Doug Anjard</title>
     <link>/posts/</link>
     <description>Recent content in Posts on Doug Anjard</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2010 08:06:25 +0600</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edits</title>
       <link>/posts/edits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/posts/edits/</guid>
-      <description>Under Construction </description>
+      <description>&lt;h2 id=&#34;under-construction&#34;&gt;Under Construction&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title>Food</title>
       <link>/posts/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/posts/food/</guid>
-      <description>Under Construction </description>
+      <description>&lt;h2 id=&#34;under-construction&#34;&gt;Under Construction&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title>KC</title>
       <link>/posts/kc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/posts/kc/</guid>
-      <description>Under Construction </description>
+      <description>&lt;h2 id=&#34;under-construction&#34;&gt;Under Construction&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title>Music</title>
       <link>/posts/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/posts/music/</guid>
-      <description>Under Construction </description>
+      <description>&lt;h2 id=&#34;under-construction&#34;&gt;Under Construction&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title>Tech</title>
       <link>/posts/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/posts/tech/</guid>
-      <description>Under Construction </description>
+      <description>&lt;h2 id=&#34;under-construction&#34;&gt;Under Construction&lt;/h2&gt;</description>
     </item>
-    
-    
   </channel>
 </rss>
